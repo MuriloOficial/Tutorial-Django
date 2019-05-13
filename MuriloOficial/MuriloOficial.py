@@ -23,6 +23,8 @@ print("Jogador 2:", jogador2)
 
 if jogador1 > jogador2:
     print("Jogador 1 Venceu!")
-
-if jogador2 > jogador1:
-    print("Jogador 2 Venceu!")   
+else:
+    if jogador2 > jogador1:
+        print("jOgador 2 Venceu")
+    else:
+        print("Empate")

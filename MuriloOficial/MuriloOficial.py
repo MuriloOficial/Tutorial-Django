@@ -25,6 +25,6 @@ if jogador1 > jogador2:
     print("Jogador 1 Venceu!")
 else:
     if jogador2 > jogador1:
-        print("jogador 2 Venceu!")
+        print("Jogador 2 Venceu!")
     else:
         print("Empate")
